@@ -1,0 +1,17 @@
+* How to use it:
+  - change config/deploy.yml to your project settings
+  - copy the lib/tasks/thor_deploy to your project or install it with
+    thor install.
+  - profit
+
+* For contributors
+  If you want to hack on this you need to setup a remote repo in order
+  to test it, also please dont commit without cucumber features, it
+  can be on your native language google translate can help, then
+  please send a pull request and i will be very pleased to include it.
+
+* License
+  LGPL v2 and beyound.
+
+* Authors
+  Glauber Alex Dias Prado so far ...
